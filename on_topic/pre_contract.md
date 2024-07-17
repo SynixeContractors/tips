@@ -1,0 +1,1 @@
+Every contract posted in #schedule will include a thread Situation Report. Make sure to check it out before the contract starts to know what the mission is going to be about and who we will be going against.
