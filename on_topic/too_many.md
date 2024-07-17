@@ -1,0 +1,1 @@
+There can definitely be too many people doing one thing. Try to be mindful of what you and others in your team are doing; if there's too many people focusing on one task unnecessarily, try seeing what else you could be doing to help, such as pulling security so your team doesn't get walked up on. Nobody wants a too many cooks situation!
