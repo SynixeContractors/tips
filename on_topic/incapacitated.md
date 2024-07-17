@@ -1,0 +1,1 @@
+Combatants can become incapacitated in the midst of a firefight, and there's a chance they may wake up and re-engage in combat. If it's secure to do so, make sure to restrain them if you've got zipties, otherwise, remove their weapons from their inventory to ensure the safety of your teammates.
