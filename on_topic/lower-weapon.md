@@ -1,1 +1,1 @@
-Weapons are both dangerous and intimidating. Make sure to lower your weapon when you're not in combat, both to prevent friendly-fire accidents and to avoid intimidating civilians or threatening contacts.
+Weapons are both dangerous and intimidating. Make sure to lower your weapon when you're not in combat, both to prevent friendly-fire accidents and to avoid intimidating civilians or threatening contacts. Additionally, having your weapon lowered will consume less of your stamina when walking around.
