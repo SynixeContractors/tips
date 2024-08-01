@@ -1,0 +1,1 @@
+Be attentive to your combat stance when traversing on the field, as the different stances will consume stamina differently. Depending on the circumstances, it may not be necessary to keep your weapon high, and lowering it will consume less stamina. Additionally, you can switch your combat pace between a slow jog and a fast jog aswell for added stamina efficiency.
